@@ -20,7 +20,7 @@ void setup() {
   ap1 = new Apple();
   snake = new Snake(grid.size()/2);
   
-  frameRate(10);
+  frameRate(8);
 }
 
 void draw() {
